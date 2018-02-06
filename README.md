@@ -1,5 +1,7 @@
 # OrecWebsite
 
+This is a personal project for the Trinity Univeristy Outdoor Recreation club. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
 
 ## Development server
